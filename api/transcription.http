@@ -1,0 +1,7 @@
+# @name create-transcription
+POST http://localhost:3333/videos/d5b371c4-adeb-482a-89a7-d70d021c3adc/transcription
+Content-Type: application/json
+
+{
+    "prompt": "destiny's child"
+}
